@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/katex/404.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/katex/LICENSE-text.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/katex/LICENSE.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/katex/articles/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/katex/articles/katex-tests.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/katex/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/katex/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/katex/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/katex/reference/katex.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/katex/reference/math_to_rd.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/katex/reference/pandoc.html</loc>
+  </url>
+</urlset>
