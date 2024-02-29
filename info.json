@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "14dc12be027a7453a682cc0ee85196281f326d52",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2022-11-28 13:14:15",
+    "files": 1,
+    "merge": false,
+    "message": "Remove attributes alltogether\n"
+  },
+  "repo": "https://github.com/ropensci/katex",
+  "pkg": "katex"
+}
