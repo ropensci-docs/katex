@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "a84bfe443c0d86a53b8ff16d3bab2c95aa5819da",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2024-09-28T12:17:18Z",
+    "files": 7,
+    "merge": false,
+    "message": "Update katexjs\n"
+  },
+  "repo": "https://github.com/ropensci/katex",
+  "pkg": "katex",
+  "time": "2026-08-30T07:17:35Z"
+}
